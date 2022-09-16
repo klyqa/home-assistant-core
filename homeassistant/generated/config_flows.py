@@ -191,6 +191,7 @@ FLOWS = {
         "justnimbus",
         "kaleidescape",
         "keenetic_ndms2",
+        "klyqa",
         "kmtronic",
         "knx",
         "kodi",

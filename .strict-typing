@@ -153,6 +153,7 @@ homeassistant.components.iqvia.*
 homeassistant.components.jellyfin.*
 homeassistant.components.jewish_calendar.*
 homeassistant.components.kaleidescape.*
+homeassistant.components.klyqa.*
 homeassistant.components.knx.*
 homeassistant.components.kraken.*
 homeassistant.components.lacrosse_view.*
